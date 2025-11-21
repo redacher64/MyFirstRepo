@@ -1,0 +1,1 @@
+What I have learned from this course is how to use Git and GitHub to manage my projects in a professional way. I learned how to create a repository, clone it, make changes locally, and push updates online. I also understand how commits work, how to write proper commit messages, and why version control is important for tracking progress and collaborating with others.
